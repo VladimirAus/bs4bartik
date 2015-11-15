@@ -1,12 +1,12 @@
-name: Bartik
+name: Bs4Bartik
 type: theme
 base theme: classy
-description: 'A flexible, recolorable theme with many regions and a responsive, mobile-first layout.'
+description: 'Bootstrap replacement for Bartik theme with many regions and a responsive, mobile-first layout.'
 package: Core
 # version: VERSION
 # core: 8.x
 libraries:
-  - bartik/global-styling
+  - bs4bartik/global-styling
 ckeditor_stylesheets:
   - css/base/elements.css
   - css/components/captions.css
@@ -32,8 +32,6 @@ regions:
   footer_fourth: 'Footer fourth'
   footer_fifth: 'Footer fifth'
 
-# Information added by Drupal.org packaging script on 2015-11-13
+# 
 version: '8.0.0-rc4'
 core: '8.x'
-project: 'drupal'
-datestamp: 1447414998
