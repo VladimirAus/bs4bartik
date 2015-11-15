@@ -115,7 +115,7 @@ $info = array(
   ),
 
   // Preview files.
-  'preview_library' => 'bartik/color.preview',
+  'preview_library' => 'bs4bartik/color.preview',
   'preview_html' => 'color/preview.html',
 
   // Attachments.
@@ -123,7 +123,7 @@ $info = array(
     'drupalSettings' => [
       'color' => [
         // Put the logo path into JavaScript for the live preview.
-        'logo' => theme_get_setting('logo.url', 'bartik'),
+        'logo' => theme_get_setting('logo.url', 'bs4bartik'),
       ],
     ],
   ],

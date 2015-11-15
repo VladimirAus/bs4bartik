@@ -1,6 +1,6 @@
 /**
  * @file
- * Preview for the Bartik theme.
+ * Preview for the Bs4Bartik theme.
  */
 (function ($, Drupal, drupalSettings) {
 
