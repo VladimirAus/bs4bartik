@@ -1,5 +1,5 @@
 # Schema for the configuration files of the Bs4Bartik theme.
 
-bartik.settings:
+bs4bartik.settings:
   type: theme_settings
   label: 'Bs4Bartik settings'
